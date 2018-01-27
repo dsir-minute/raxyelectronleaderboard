@@ -1,8 +1,8 @@
-# electron-quick-start
+# raxyiotaleaderboard on top of electron-quick-start
 
-**Clone and run for a quick way to see Electron in action.**
+**see Electron version of raxy iota leaderboard in action.**
 
-This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start) within the Electron documentation.
+Original Chrome based version: [Original raxy git repo](https://github.com/dsir-minute/iotaLeaderBoard2)
 
 **Use this app along with the [Electron API Demos](http://electron.atom.io/#get-started) app for API code examples to help you get started.**
 
@@ -20,7 +20,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/dsir-minute/raxyelectronleaderboard
 # Go into the repository
 cd electron-quick-start
 # Install dependencies
